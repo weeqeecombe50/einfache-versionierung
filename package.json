@@ -1,7 +1,7 @@
 {
   "name": "einfache-versionierung",
   "version": "1.0.0",
-  "description": "Ein System zur Versionierung von Projekten.",
+  "description": "A simple versioning system for projects to manage updates and changes more effectively.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
